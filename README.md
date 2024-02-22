@@ -1,4 +1,4 @@
-# you_chat
+# কথা_katha
 
 Flutter chat app developed by SayanDip Adhikary.
 
